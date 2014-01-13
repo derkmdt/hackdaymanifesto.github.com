@@ -627,7 +627,7 @@ not just successful, but enjoyable as well. Good luck!
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
 * [James Parton] (http://twilio.com) Twilio
 * [Ketan Majmudar](http://stereoartist.com) Developer (Titanium AppCamp &amp; London Titanium organiser)
-* [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
+* [Derk Braakman] (http://developers.bol.com) Developer Evangelist, bol.com
 * [Ankur Oberoi](http://twitter.com/aoberoi) Developer Evangelist, TokBox
 * [Stephen Mount](http://stemount.co.uk) Developer
 * [Daniel Appelquist](http://overtheair.org) Over the Air
